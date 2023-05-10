@@ -26,5 +26,5 @@ int natural_square(int x, int y)
 		return (-1);
 	if (s == x)
 		return (y);
-	return (natural_square (x, y+1);
+	return (natural_square (x, y + 1);
 }
