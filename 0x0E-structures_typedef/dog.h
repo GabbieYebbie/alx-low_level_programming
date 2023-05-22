@@ -8,7 +8,7 @@
 	 * @age:second element
 	 * @owner: third element
 	 *
-	 * Definition of a new type struct dog
+	 * Dog_t as name for struct dog
 	 *
 	 */
 	struct dog
